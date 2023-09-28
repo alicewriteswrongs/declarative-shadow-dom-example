@@ -1,0 +1,17 @@
+{
+  "name": "declarative-shadow-dom-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dsd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server .",
+    "fmt": "prettier --write *.js *.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "prettier": "^3.0.3"
+  }
+}
