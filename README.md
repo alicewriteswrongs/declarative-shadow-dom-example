@@ -12,3 +12,7 @@ To run the project do:
 npm i
 npm start
 ```
+
+Then you can gaze upon its unadulterated beauty:
+
+<img width="537" alt="Screenshot 2023-09-29 at 9 50 53 AM" src="https://github.com/alicewriteswrongs/declarative-shadow-dom-example/assets/6207644/0cfed07f-756f-47f4-8353-60db899db3ab">
