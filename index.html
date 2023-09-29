@@ -10,5 +10,16 @@
     <script type="module" src="/dsd.js"></script>
   </head>
   <body>
+    <h1>element with template</h1>
+    <dsd-element>
+      <template shadowrootmode="open">
+        <style>span { color: blue; }</style>
+        <div>
+          <span>this html is rendered and 'styled' in the declarative shadow DOM template</h3>
+        </div>
+      </template>
+    </dsd-element>
+    <h1>element without template</h1>
+    <dsd-element></dsd-element>
   </body>
 </html>
